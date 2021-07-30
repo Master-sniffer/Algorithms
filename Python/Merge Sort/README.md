@@ -1,4 +1,4 @@
-## Complex time - 
+## Complex time - O(n log n)*
 
 *This Method with big data should be the fastests
 
