@@ -1,3 +1,3 @@
-#Time complex - Worst scenario == infinity
+## Time complex - Worst scenario == infinity
 
 ![Screenshot](zEk2rW.gif)
